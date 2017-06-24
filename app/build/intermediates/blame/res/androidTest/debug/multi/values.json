@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kumam8/Learning/Android/Ex_Files_Android_Apps_RESTful/Exercise Files/Solutions/Ch06/06_03/Picasso/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/kumam8/.android/build-cache/af7dfa13c44136e276adc7e078cc8103b3d4da55/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

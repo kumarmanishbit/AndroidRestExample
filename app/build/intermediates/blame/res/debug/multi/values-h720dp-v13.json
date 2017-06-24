@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kumam8/Learning/Android/Ex_Files_Android_Apps_RESTful/Exercise Files/Solutions/Ch06/06_03/Picasso/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/kumam8/.android/build-cache/d0ce600c0f03a86d45c3d15d0d6e4225dd396ea4/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
